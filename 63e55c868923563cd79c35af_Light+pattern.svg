@@ -1,0 +1,46 @@
+<svg width="736" height="785" viewBox="0 0 736 785" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1549_19935" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="736" height="785">
+<rect width="736" height="785" transform="matrix(-1 0 0 1 736 0)" fill="url(#paint0_radial_1549_19935)"/>
+</mask>
+<g mask="url(#mask0_1549_19935)">
+<rect width="1" height="783" transform="matrix(-1 0 0 1 687 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 736 1)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 50)" fill="#E1E2E9"/>
+<rect width="0.999968" height="736" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 736 1)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 99)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 148)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 197)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 246)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 295)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 344)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 393)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 442)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 491)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 540)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 589)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 638)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 687)" fill="#E1E2E9"/>
+<rect width="0.999968" height="734" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 735 736)" fill="#E1E2E9"/>
+<rect width="0.999968" height="736" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 736 785)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 638 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 589 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 540 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 491 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 442 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 393 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 344 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 295 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 246 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 197 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 148 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 99 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 50 1)" fill="#E1E2E9"/>
+<rect width="1" height="783" transform="matrix(-1 0 0 1 1 1)" fill="#E1E2E9"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_1549_19935" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(368 392.5) rotate(90) scale(392.5 368)">
+<stop stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
